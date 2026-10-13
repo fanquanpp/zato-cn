@@ -1,3 +1,5 @@
+**简体中文** · [English](README.en.md)
+
 # Z.A.T.O. // 我爱这世界与世间万物 — 汉化补丁
 
 **Z.A.T.O. // I Love the World and Everything in It** 的非官方简体中文汉化补丁。
